@@ -1,0 +1,25 @@
+2022-03-17 17:30:26,450 - banking -INFO - URL is opened
+2022-03-17 17:30:27,400 - banking -INFO - Entered username 
+2022-03-17 17:30:27,550 - banking -INFO - Entered password 
+2022-03-17 17:30:29,628 - banking -INFO - click submit button 
+2022-03-17 17:30:29,640 - banking -INFO - login test passed
+2022-03-17 17:30:52,750 - banking -INFO - URL is opened
+2022-03-17 17:30:53,021 - banking -INFO - Entered username 
+2022-03-17 17:30:53,448 - banking -INFO - Entered password 
+2022-03-17 17:30:55,196 - banking -INFO - click submit button 
+2022-03-17 17:30:55,232 - banking -INFO - login test passed
+2022-03-17 17:58:35,688 - banking -INFO - URL is opened
+2022-03-17 17:58:36,491 - banking -INFO - Entered username 
+2022-03-17 17:58:36,657 - banking -INFO - Entered password 
+2022-03-17 17:58:38,588 - banking -INFO - click submit button 
+2022-03-17 17:58:38,599 - banking -INFO - login test passed
+2022-03-19 12:50:20,731 - banking -INFO - URL is opened
+2022-03-19 12:50:20,956 - banking -INFO - Entered username 
+2022-03-19 12:50:21,576 - banking -INFO - Entered password 
+2022-03-19 12:50:23,100 - banking -INFO - click submit button 
+2022-03-19 12:50:23,120 - banking -INFO - login test passed
+2022-03-20 13:05:17,698 - banking -INFO - URL is opened
+2022-03-20 13:05:18,244 - banking -INFO - Entered username 
+2022-03-20 13:05:18,881 - banking -INFO - Entered password 
+2022-03-20 13:05:20,896 - banking -INFO - click submit button 
+2022-03-20 13:05:20,909 - banking -INFO - login test passed
